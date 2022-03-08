@@ -277,4 +277,4 @@ select{
 
 .dot-indicators > [aria-selected="true"]{
     background-color: hsl(var(--clr-white) / 1);
-}
+color:red;}
